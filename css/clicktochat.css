@@ -1,0 +1,149 @@
+ #liveagent_button_online_573D0000000CcTT {
+    top:50%!important;
+    margin-top:-150px;
+    left:0px;
+    position:fixed!important;
+    position:absolute;
+    cursor:pointer;
+    z-index:9999999;
+}
+
+/************************************************* 
+* Media queries to show/hide click to chat button 
+**************************************************/
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+    #liveagent_button_online_573D0000000CcTT
+    {
+        display: none;
+    }
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen 
+and (min-width : 321px) {
+    #liveagent_button_online_573D0000000CcTT
+    {
+        display: none;
+    }
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen 
+and (max-width : 320px) {
+    #liveagent_button_online_573D0000000CcTT
+    {
+        display: none;
+    }
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+    #liveagent_button_online_573D0000000CcTT
+    {
+        display: none;
+    }
+}
+
+/* iPads (landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {
+/* Styles */
+    #liveagent_button_online_573D0000000CcTT
+    {
+        display: none;
+    }
+}
+
+/* iPads (portrait) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+/* Styles */
+    #liveagent_button_online_573D0000000CcTT
+    {
+        display: none;
+    }
+}
+
+/* Desktops and laptops ----------- */
+@media only screen 
+and (min-width : 1224px) {
+/* Styles */
+    #liveagent_button_online_573D0000000CcTT
+    {
+        display: inline;
+    }
+}
+
+/* Large screens ----------- */
+@media only screen 
+and (min-width : 1824px) {
+/* Styles */
+    #liveagent_button_online_573D0000000CcTT
+    {
+        display: inline;
+    }
+}
+
+/* iPhone 4 ----------- */
+@media only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+/* Styles */
+    #liveagent_button_online_573D0000000CcTT
+    {
+        display: none;
+    }
+}
+
+/* Retina displays*/
+@media 
+only screen and (-webkit-min-device-pixel-ratio: 2) and (min-resolution: 192dpi),
+only screen and (min-width : 900px) {  
+    /* Retina-specific stuff here */
+    #liveagent_button_online_573D0000000CcTT
+    {
+        display: inline;
+    }
+}
+
+/* 1.25 dpr */
+@media 
+only screen and (-webkit-min-device-pixel-ratio: 1.25) and (min-resolution: 120dpi)
+only screen and (min-width : 900px) {  
+    /* Retina-specific stuff here */
+    #liveagent_button_online_573D0000000CcTT
+    {
+        display: inline;
+    }
+}
+
+/* 1.3 dpr */
+@media 
+only screen and (-webkit-min-device-pixel-ratio: 1.3) and (min-resolution: 124.8dpi)
+only screen and (min-width : 900px) {  
+    /* Retina-specific stuff here */
+    #liveagent_button_online_573D0000000CcTT
+    {
+        display: inline;
+    }
+}
+
+/* 1.5 dpr */
+@media 
+only screen and (-webkit-min-device-pixel-ratio: 1.5) and (min-resolution: 144dpi)
+only screen and (min-width : 900px) {  
+    /* Retina-specific stuff here */
+    #liveagent_button_online_573D0000000CcTT
+    {
+        display: inline;
+    }
+}
